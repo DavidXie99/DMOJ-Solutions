@@ -27,3 +27,7 @@ https://dmoj.ca/problem/det
 LHC:
 https://dmoj.ca/problem/cco13p3
 (Fastest python solution)
+
+Crazy Math:
+https://dmoj.ca/problem/si17c1p5
+(Fastest python solution)
