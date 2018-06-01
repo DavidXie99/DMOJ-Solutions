@@ -23,3 +23,7 @@ https://dmoj.ca/problem/ccc15s4
 Matrix Determinant:
 https://dmoj.ca/problem/det
 (Only successful solution in python)
+
+LHC:
+https://dmoj.ca/problem/cco13p3
+(Fastest python solution)
